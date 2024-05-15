@@ -1,8 +1,8 @@
-### Pokémon Quiz Game
+# Pokémon Quiz Game
 
 Explore my web-based Pokemon quiz! Guess Pokemon names, score points for correct answers. It's easy, fun, and perfect for testing your knowledge.
 
-#### Features
+## Features
 
 - **Data Fetching**: Utilizes PokeAPI to retrieve Pokémon information.
 - **Interactive Interface**: Displays Pokémon images with options for users to select the correct name.
@@ -11,11 +11,11 @@ Explore my web-based Pokemon quiz! Guess Pokemon names, score points for correct
 - **Randomized Questions**: Ensures an engaging experience by presenting questions in a random order.
 - **Unique Experience**: Prevents repeating questions to maintain the novelty of each gaming session.
 
-- #### Technologies Used
-- 
-- JavaScript
+- ## Technologies Used
+  
 - HTML
 - CSS
+- JavaScript
 - PokeAPI
 
 ## Demo
